@@ -1,4 +1,7 @@
-# WrangelReader
-An interactive edition of Pyotr Wrangel's memoir Always With Honor. Geographic references are linked to an historical gazetteer to help readers follow the campaign without interrupting the flow of the text.
+# Always With Honor — Reader's Atlas
 
-Place identifications are based on contemporary and historical sources and are continuously refined. Some locations remain approximate where the historical evidence is ambiguous.
+A browser-based edition of Pyotr Wrangel's *Always With Honor* with a synchronized historical gazetteer and map.
+
+This directory is the public web build. Upload its contents to a static host such as GitHub Pages, Cloudflare Pages, or Netlify. No build step is required.
+
+Leaflet is loaded from unpkg. Basemap tiles are loaded from CARTO or OpenTopoMap when the map is used, so an internet connection is required.

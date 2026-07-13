@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Reader's Atlas</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="./engine/reader-engine.css" />
+</head>
+<body>
+<div class="app">
+  <section class="reader">
+    <header class="reader-header">
+      <h1 class="book-title" id="book-title">Loading…</h1>
+      <p class="book-author" id="book-author"></p>
+      <nav class="chapter-nav">
+        <button id="prev-chapter" title="Previous chapter">‹ Prev</button>
+        <select id="chapter-select"></select>
+        <button id="next-chapter" title="Next chapter">Next ›</button>
+      </nav>
+    </header>
+    <article class="reader-body" id="reader-body"></article>
+  </section>
+
+  <section class="map-panel">
+    <div id="map"></div>
+    <aside class="info-box empty" id="info-box"></aside>
+  </section>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="./engine/reader-engine.js"></script>
+</body>
+</html>

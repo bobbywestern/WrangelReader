@@ -1,0 +1,39 @@
+{
+  "type": "Feature",
+  "properties": {
+    "place_id": "don_region",
+    "name": "Don Host Territory",
+    "polygon_basis": "Approximate boundary of the Don Cossack Host territory as of 1917. Extended from roughly the Donets basin in the west to the Volga in the east, and from the Voronezh region in the north to the Sea of Azov and Kuban Host border in the south. Novocherkassk was the capital. Shape is a simplified hand-drawn approximation based on pre-revolutionary administrative maps.",
+    "confidence": "approximate",
+    "boundary_type": "administrative_historical",
+    "era": "1917"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [37.50, 49.90],
+      [38.60, 50.20],
+      [40.00, 50.40],
+      [41.40, 50.50],
+      [42.80, 50.30],
+      [44.20, 49.90],
+      [45.60, 49.40],
+      [46.80, 48.80],
+      [47.40, 48.20],
+      [47.60, 47.50],
+      [47.30, 46.80],
+      [46.50, 46.40],
+      [45.40, 46.20],
+      [44.20, 46.20],
+      [43.00, 46.30],
+      [41.80, 46.50],
+      [40.60, 46.70],
+      [39.30, 46.85],
+      [38.20, 46.85],
+      [37.60, 47.30],
+      [37.40, 48.00],
+      [37.30, 48.80],
+      [37.50, 49.90]
+    ]]
+  }
+}

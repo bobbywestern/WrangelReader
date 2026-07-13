@@ -1,0 +1,33 @@
+{
+  "id": "always_with_honor",
+  "title": "Always With Honor",
+  "author": "General Baron Pyotr N. Wrangel",
+  "translator": "Sophie Goulston (1929 Duffield edition)",
+  "subtitle": "The Memoirs of General Wrangel",
+  "description": "Memoir of the last commander of the White Army in southern Russia, covering the February Revolution through the November 1920 evacuation of Crimea.",
+  "initial_map_view": {
+    "center": [48.0, 35.0],
+    "zoom": 5
+  },
+  "chapters": [
+    { "id": "01", "number": 1, "title": "The Revolution and the Collapse of the Army", "part": "Part I — The Birth of the Counter-Revolution" },
+    { "id": "02", "number": 2, "title": "The Provisional Government", "part": "Part I — The Birth of the Counter-Revolution" },
+    { "id": "03", "number": 3, "title": "Under the Yoke of Bolshevism", "part": "Part I — The Birth of the Counter-Revolution" },
+    { "id": "04", "number": 4, "title": "The Liberation of Northern Caucasia", "part": "Part II" },
+    { "id": "05", "number": 5, "title": "The March on Moscow", "part": "Part II" },
+    { "id": "06", "number": 6, "title": "The Revolt in Kuban", "part": "Part II" },
+    { "id": "07", "number": 7, "title": "Disaster", "part": "Part II" },
+    { "id": "08", "number": 8, "title": "The Change of Power", "part": "Part III" },
+    { "id": "09", "number": 9, "title": "Early Progress", "part": "Part III" },
+    { "id": "10", "number": 10, "title": "The Agrarian Problem and the District Zemstvo", "part": "Part III" },
+    { "id": "11", "number": 11, "title": "On the Eve of the Offensive", "part": "Part III" },
+    { "id": "12", "number": 12, "title": "Forward!", "part": "Part III" },
+    { "id": "13", "number": 13, "title": "In Northern Taurida", "part": "Part III" },
+    { "id": "14", "number": 14, "title": "In the Kuban", "part": "Part III" },
+    { "id": "15", "number": 15, "title": "\"Concentrate on Wrangel\"", "part": "Part III" },
+    { "id": "16", "number": 16, "title": "Across the Dnieper", "part": "Part III" },
+    { "id": "17", "number": 17, "title": "The Last Venture", "part": "Part III" },
+    { "id": "18", "number": 18, "title": "Into the Unknown", "part": "Part III" },
+    { "id": "19", "number": 19, "title": "The White Armies: In Russia and Later", "part": "Epilogue" }
+  ]
+}

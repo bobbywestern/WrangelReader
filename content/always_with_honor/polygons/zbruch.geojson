@@ -1,0 +1,43 @@
+{
+  "type": "Feature",
+  "properties": {
+    "place_id": "zbruch_sector",
+    "name": "Zbruch Sector",
+    "geometry_basis": "Zbruch River — historic Russia/Austria-Hungary border until 1918. Traces the river from its upper reaches in western Ukraine south through Husiatyn and Skala-Podilska to its confluence with the Dniester.",
+    "confidence": "approximate",
+    "feature_type": "river_line"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [
+        26.47,
+        49.72
+      ],
+      [
+        26.3,
+        49.42
+      ],
+      [
+        26.25,
+        49.17
+      ],
+      [
+        26.18,
+        48.95
+      ],
+      [
+        26.22,
+        48.74
+      ],
+      [
+        26.37,
+        48.55
+      ],
+      [
+        26.53,
+        48.46
+      ]
+    ]
+  }
+}

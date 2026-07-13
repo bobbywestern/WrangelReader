@@ -1,0 +1,35 @@
+{
+  "type": "Feature",
+  "properties": {
+    "place_id": "galicia",
+    "name": "Galicia",
+    "polygon_basis": "Approximate boundary of the Austro-Hungarian Kingdom of Galicia and Lodomeria as it existed until 1918. Extended from Kraków in the west (western Galicia) through Lviv/Lemberg (eastern Galicia) to the Zbruch River in the east, bordered by the Carpathians to the south. Shape is a simplified hand-drawn approximation, not a survey-grade boundary.",
+    "confidence": "approximate",
+    "boundary_type": "administrative_historical",
+    "era": "pre-1918"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [19.40, 50.10],
+      [20.20, 50.40],
+      [21.00, 50.55],
+      [22.00, 50.70],
+      [23.20, 50.75],
+      [24.40, 50.65],
+      [25.60, 50.40],
+      [26.50, 49.90],
+      [26.70, 49.30],
+      [26.40, 48.70],
+      [25.80, 48.30],
+      [25.00, 48.15],
+      [24.10, 48.20],
+      [23.00, 48.45],
+      [22.00, 48.85],
+      [21.00, 49.20],
+      [20.20, 49.35],
+      [19.60, 49.60],
+      [19.40, 50.10]
+    ]]
+  }
+}

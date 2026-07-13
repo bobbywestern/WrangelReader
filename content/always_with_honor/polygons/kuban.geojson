@@ -1,0 +1,36 @@
+{
+  "type": "Feature",
+  "properties": {
+    "place_id": "kuban_region",
+    "name": "Kuban Host Territory",
+    "polygon_basis": "Approximate boundary of the Kuban Cossack Host territory as of 1917. Southern boundary follows the crest of the Western Caucasus; western boundary is the Sea of Azov and Black Sea coast; northern boundary (separating from the Don Host) ran roughly along the Yeya River; eastern boundary abutted the Terek Host near Stavropol. Shape is a simplified hand-drawn approximation, not a survey-grade boundary.",
+    "confidence": "approximate",
+    "boundary_type": "administrative_historical",
+    "era": "1917"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [[
+      [36.60, 45.35],
+      [37.30, 46.20],
+      [38.20, 46.70],
+      [39.30, 46.85],
+      [40.20, 46.75],
+      [41.00, 46.40],
+      [41.80, 46.00],
+      [42.20, 45.50],
+      [42.40, 45.00],
+      [42.20, 44.50],
+      [41.80, 44.00],
+      [41.20, 43.70],
+      [40.40, 43.55],
+      [39.60, 43.60],
+      [39.00, 43.90],
+      [38.20, 44.30],
+      [37.40, 44.55],
+      [36.90, 44.85],
+      [36.70, 45.10],
+      [36.60, 45.35]
+    ]]
+  }
+}
